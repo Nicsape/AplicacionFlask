@@ -1,3 +1,6 @@
+## Vista Previa
+![Vista Previa](Muestra.png)
+
 # AplicacionFlask
 Tarea
 1. Instala las dependencias:
@@ -9,3 +12,4 @@ python Flask.py
 3. Abre el navegador en:
 http://127.0.0.1:5000/inicio
 
+##
